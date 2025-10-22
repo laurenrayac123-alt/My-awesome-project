@@ -1,3 +1,3 @@
-# My-awesome-project
+# Fruit Catcher
 
-Add project details here
+I used make code arcade to create my project
